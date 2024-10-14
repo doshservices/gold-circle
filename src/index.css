@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Aeonik';
+  font-style: normal;
+  font-weight: normal;
+  src: url('./assets/aeoniktrial-regular.otf');
+}
+
+@font-face {
+  font-family: 'Maiandra';
+  font-style: normal;
+  font-weight: normal;
+  src: url('./assets/MAIAN.TTF');
+}
