@@ -9,6 +9,7 @@ export const theme = {
       'lsm': '320px',
       'xsm': '370px',
       'ssm': '420px',
+      'xlg': '1200px',
     },
     colors: {
 

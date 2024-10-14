@@ -15,3 +15,9 @@
   font-weight: normal;
   src: url('./assets/MAIAN.TTF');
 }
+
+.home-hero-video {
+  width: 100vw !important;
+  height: 100% !important;
+  top: -2rem;
+}
